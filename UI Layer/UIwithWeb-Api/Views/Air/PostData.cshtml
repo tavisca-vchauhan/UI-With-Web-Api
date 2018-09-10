@@ -1,0 +1,92 @@
+﻿@{
+    ViewBag.Title = "AddValues";
+}
+
+<h2 align="center">Enter Values to add Air product </h2>
+<br />
+<br />
+<br />
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Air </h2>
+        @using (Html.BeginForm("PostOperation", "Air", FormMethod.Post))
+        {
+        <table>
+            <tr>
+                <td>@Html.Label("ticketNumber")</td>
+                <td>@Html.TextBox("ticketNumber")</td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>@Html.Label("departureStation")</td>
+                <td>@Html.TextBox("departureStation")</td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>@Html.Label("destinationStation")</td>
+                <td>@Html.TextBox("destinationStation")</td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>@Html.Label("arrivalTime")</td>
+                <td>@Html.TextBox("arrivalTime")</td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>@Html.Label("departureTime")</td>
+                <td>@Html.TextBox("departureTime")</td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>@Html.Label("duration")</td>
+                <td>@Html.TextBox("duration")</td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>@Html.Label("price")</td>
+                <td>@Html.TextBox("price")</td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>@Html.Label("IsSaved")</td>
+                <td>@Html.TextBox("IsSaved")</td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>@Html.Label("IsBooked")</td>
+                <td>@Html.TextBox("IsBooked")</td>
+            </tr>
+            <tr>
+                <td colspan="2"><input type="submit" class="inside-button" value="Add Details"</td>
+            </tr>
+        </table>
+        }
+    </div>
+</div>
+<link rel="stylesheet" type="text/css" href="~/Scripts/Style.css" />

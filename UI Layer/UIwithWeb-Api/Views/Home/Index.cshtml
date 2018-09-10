@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbo">
+    <h1>Login As -</h1>
+    <p id="users">
+        @Html.ActionLink("Admin", "ShowAdminContent", "Admin")
+        @Html.ActionLink("User", "ShowUserContent", "User")
+    </p>
+</div>
+<link rel="stylesheet" type="text/css" href="~/Scripts/Style.css" />

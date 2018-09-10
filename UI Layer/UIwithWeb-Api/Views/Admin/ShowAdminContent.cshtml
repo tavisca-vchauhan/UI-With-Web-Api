@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewBag.Title = "LoggedInAsAdmin";
+}
+
+<h2 >Admin</h2>
+<br />
+<br />
+<br />
+<div>
+    <div class="buttons">
+        @using (Html
+            .BeginForm("PostData", "Car", FormMethod.Post))
+        {
+            <input class="inside-button" type="submit" value="Car" />
+        }
+        <br />
+        @using (Html
+           .BeginForm("PostData", "Activity", FormMethod.Post))
+        {
+            <input class="inside-button" type="submit" value="Activity" />
+        }
+        <br />
+        @using (Html
+           .BeginForm("PostData", "Air", FormMethod.Post))
+        {
+            <input class="inside-button" type="submit" value="Air" />
+        }
+        <br />
+        @using (Html
+           .BeginForm("PostData", "Hotel", FormMethod.Post))
+        {
+            <input class="inside-button" type="submit" value="Hotel" />
+        }
+    </div>
+</div>
+<hr />
+<link rel="stylesheet" type="text/css" href="~/Scripts/Style.css" />

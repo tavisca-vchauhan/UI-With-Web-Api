@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIwithWeb-Api", "UIwithWeb-Api\UIwithWeb-Api.csproj", "{CC6F9680-CAF7-4776-BCEE-070C5DF2F7FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC6F9680-CAF7-4776-BCEE-070C5DF2F7FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC6F9680-CAF7-4776-BCEE-070C5DF2F7FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC6F9680-CAF7-4776-BCEE-070C5DF2F7FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC6F9680-CAF7-4776-BCEE-070C5DF2F7FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F80134BF-A1A7-4B22-929C-B2C5A5160455}
+	EndGlobalSection
+EndGlobal

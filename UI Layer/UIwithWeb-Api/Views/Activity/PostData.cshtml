@@ -1,0 +1,68 @@
+﻿@{
+    ViewBag.Title = "AddValues";
+}
+
+<h2 align="center">Enter Values to add new Activity </h2>
+<br />
+<br />
+<br />
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Activity </h2>
+        @using (Html.BeginForm("PostOperation", "Activity", FormMethod.Post))
+        {
+            <table>
+                <tr>
+                    <td>@Html.Label("Name")</td>
+                    <td>@Html.TextBox("activityName")</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>@Html.Label("Duration")</td>
+                    <td>@Html.TextBox("activityDuration")</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>@Html.Label("Date")</td>
+                    <td>@Html.TextBox("activityDate")</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>@Html.Label("cost")</td>
+                    <td>@Html.TextBox("cost")</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>@Html.Label("IsSaved")</td>
+                    <td>@Html.TextBox("IsSaved")</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>@Html.Label("IsBooked")</td>
+                    <td>@Html.TextBox("IsBooked")</td>
+                </tr>
+                <tr>
+                    <td colspan="2"><input class="inside-button" type="submit" value="Add Details"</td>
+                </tr>
+            </table>
+        }
+    </div>
+</div>
+<link rel="stylesheet" type="text/css" href="~/Scripts/Style.css" />

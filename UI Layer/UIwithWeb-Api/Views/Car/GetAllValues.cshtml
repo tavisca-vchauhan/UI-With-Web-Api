@@ -1,0 +1,76 @@
+﻿@model List<UIwithWeb_Api.Models.Car>
+@{
+    ViewBag.Title = "GetValues";
+}
+
+<h2 align="center" id="heading">Car </h2>
+<br />
+<br />
+<br />
+<hr />
+<table >
+    <thead>
+        <tr>
+            <th>carId</th>
+            <th>carName</th>
+            <th>carCompany</th>
+            <th>carModel</th>
+            <th>cost</th>
+            <th>color</th>
+            <th>engine</th>
+            <th>IsSaved</th>
+            <th>IsBooked</th>
+            <th>Book Status</th>
+            <th>Save Status</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var i in Model)
+        {
+        <tr>
+            <td>@i.carId</td>
+            <td>@i.carName</td>
+            <td>@i.carCompany</td>
+            <td>@i.carModel</td>
+            <td>@i.cost</td>
+            <td>@i.color</td>
+            <td>@i.engine</td>
+            <td>@i.IsSaved</td>
+            <td>@i.IsBooked</td>
+            @using (Html
+                   .BeginForm("PutData", "Car", FormMethod.Post))
+            {
+                <td>
+                    @if (@i.IsBooked == true)
+                    {
+                        <input type="hidden" name="Save" value="@i.carId,2" />
+                        <input class="inside-button" type="submit" value="Booked" />
+                    }
+                    else
+                    {
+                        <input type="hidden" name="Save" value="@i.carId,2" />
+                        <input class="inside-button" type="submit" value="Book" />
+                    }
+
+                </td>
+            } @using (Html.BeginForm("PutData", "Car", FormMethod.Post))
+            {
+                <td>
+                    @if (@i.IsSaved == true)
+                    {
+                        <input type="hidden" name="Save" value="@i.carId,1" />
+                        <input class="inside-button" type="submit" value="Saved" />
+                    }
+                    else
+                    {
+                        <input type="hidden" name="Save" value="@i.carId,1" />
+                        <input class="inside-button" type="submit" value="Save" />
+                    }
+                </td>
+            }
+        </tr>
+        }
+    </tbody>
+</table>
+<link rel="stylesheet" type="text/css" href="~/Scripts/Style.css" />

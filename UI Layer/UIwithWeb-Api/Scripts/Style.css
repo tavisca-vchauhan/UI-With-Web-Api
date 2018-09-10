@@ -1,0 +1,91 @@
+﻿body {
+    background-color: #466699;
+}
+
+#ControllerName {
+    padding: 5px 1px;
+    font-size: 1.7em;
+    text-align: center;
+    color: #e8e5e6;
+}
+
+tr {
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+}
+
+th {
+    flex: 1;
+    font-size: 1.3em;
+    padding: 1px 10px;
+}
+
+td {
+    flex: 1;
+    font-size: 1em;
+    padding: 1px 10px;
+    color: #ccc9c9;
+}
+
+a {
+    text-decoration: none;
+    color: #c6c6c6;
+    font-weight: bolder;
+}
+
+a:hover {
+        color: antiquewhite;
+        text-shadow: 0px 0px 30px 0.1em;
+        text-decoration: none;
+    }
+
+.links {
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    background-color: #25568e;
+    height: 80px;
+}
+
+.click {
+    flex: 2;
+    height: 1px;
+}
+
+#heading {
+    font-size: 3em;
+    margin-top: 100px;
+    color: black;
+    text-shadow: 0px 0px 4px 0.1em white;
+}
+#users{
+   
+    padding: 20px 0px;
+    font-size:3em;
+    color: #000000;
+}
+.buttons{
+    display:flex;
+    flex-flow:row;
+    flex-wrap: wrap;
+}
+.inside-button{
+    width: 150px;
+    height: 40px;
+    color: black;
+    font-size: 1.2em;
+    font-weight: bolder;
+    background-color: #25568e;
+    border:0;
+    padding: 10px 10px;
+    margin-left: 5px;
+}
+.inside-button:hover{
+    box-shadow: 0px 0px 5px 0.2em #e8e5e6;
+}

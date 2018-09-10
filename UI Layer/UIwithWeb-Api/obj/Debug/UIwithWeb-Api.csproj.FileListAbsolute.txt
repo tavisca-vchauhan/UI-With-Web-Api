@@ -1,0 +1,198 @@
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\ApplicationInsights.config
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\UIwithWeb-Api.dll.config
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\UIwithWeb-Api.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\UIwithWeb-Api.pdb
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\csc.exe
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\csc.exe.config
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\csc.rsp
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\csi.exe
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\csi.exe.config
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\csi.rsp
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\Microsoft.Managed.Core.targets
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\System.AppContext.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\System.Console.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\System.IO.Compression.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\System.IO.FileSystem.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\System.IO.Pipes.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\System.Security.AccessControl.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\System.Security.Claims.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\System.ValueTuple.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\System.Xml.XPath.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\vbc.exe
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\vbc.exe.config
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\vbc.rsp
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\VBCSCompiler.exe
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\Antlr3.Runtime.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\Microsoft.AI.Web.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\Microsoft.AI.WindowsServer.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\Microsoft.ApplicationInsights.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\Newtonsoft.Json.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\System.Diagnostics.DiagnosticSource.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\System.Web.Helpers.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\System.Web.Mvc.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\System.Web.Optimization.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\System.Web.Razor.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\System.Web.WebPages.Deployment.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\System.Web.WebPages.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\System.Web.WebPages.Razor.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\WebGrease.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\System.Web.Helpers.xml
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\System.Web.Mvc.xml
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\System.Web.Optimization.xml
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\System.Web.Razor.xml
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\System.Web.WebPages.xml
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\System.Web.WebPages.Deployment.xml
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\System.Web.WebPages.Razor.xml
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\Newtonsoft.Json.xml
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\Antlr3.Runtime.pdb
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\System.Diagnostics.DiagnosticSource.xml
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\Microsoft.AI.WindowsServer.xml
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\Microsoft.AI.Web.xml
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\obj\Debug\UIwithWeb-Api.csprojAssemblyReference.cache
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\obj\Debug\UIwithWeb-Api.csproj.CoreCompileInputs.cache
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\obj\Debug\UIwithWeb-Api.csproj.CopyComplete
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\obj\Debug\UIwithWeb-Api.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\obj\Debug\UIwithWeb-Api.pdb
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\System.Net.Http.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\System.Net.Http.Extensions.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\System.Net.Http.Formatting.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\System.Net.Http.Primitives.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\System.Security.Cryptography.Algorithms.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\System.Security.Cryptography.Encoding.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\System.Security.Cryptography.Primitives.dll
+c:\users\mmehndiratta\source\repos\UIwithWeb-Api\UIwithWeb-Api\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\ApplicationInsights.config
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\UIwithWeb-Api.dll.config
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\UIwithWeb-Api.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\UIwithWeb-Api.pdb
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\csc.exe
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\csc.exe.config
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\csc.rsp
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\csi.exe
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\csi.exe.config
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\csi.rsp
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\System.AppContext.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\System.Console.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\System.IO.Compression.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\System.IO.Pipes.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\System.Security.Claims.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\System.ValueTuple.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\vbc.exe
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\vbc.exe.config
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\vbc.rsp
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\Antlr3.Runtime.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\Microsoft.AI.Web.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\Microsoft.ApplicationInsights.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\Newtonsoft.Json.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\System.Net.Http.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\System.Net.Http.Extensions.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\System.Net.Http.Formatting.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\System.Net.Http.Primitives.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\System.Web.Helpers.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\System.Web.Mvc.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\System.Web.Optimization.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\System.Web.Razor.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\System.Web.WebPages.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\WebGrease.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\System.Web.Helpers.xml
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\System.Web.Mvc.xml
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\System.Web.Optimization.xml
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\System.Web.Razor.xml
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\System.Web.WebPages.xml
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\Newtonsoft.Json.xml
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\Antlr3.Runtime.pdb
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\Microsoft.AI.Web.xml
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\obj\Debug\UIwithWeb-Api.csprojAssemblyReference.cache
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\obj\Debug\UIwithWeb-Api.csproj.CoreCompileInputs.cache
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\obj\Debug\UIwithWeb-Api.csproj.CopyComplete
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\obj\Debug\UIwithWeb-Api.dll
+C:\Users\vchauhan\Desktop\UI-With-Web-Api\UI Layer\UIwithWeb-Api\obj\Debug\UIwithWeb-Api.pdb

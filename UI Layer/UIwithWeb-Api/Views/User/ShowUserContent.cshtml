@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewBag.Title = "LoggedInAsUser";
+}
+
+<h2>User</h2>
+<br />
+<br />
+<br />
+<div >
+    <div class="buttons">
+        @using (Html
+            .BeginForm("GetAllValues", "Car", FormMethod.Post))
+        {
+            <input class="inside-button" type="submit" value="Car" />
+        }
+        <br />
+        @using (Html
+           .BeginForm("GetAllValues", "Activity", FormMethod.Post))
+        {
+            <input class="inside-button" type="submit" value="Activity" />
+        }
+        <br />
+        @using (Html
+           .BeginForm("GetAllValues", "Air", FormMethod.Post))
+        {
+            <input class="inside-button" type="submit" value="Air" />
+        }
+        <br />
+        @using (Html
+           .BeginForm("GetAllValues", "Hotel", FormMethod.Post))
+        {
+            <input class="inside-button" type="submit" value="Hotel" />
+        }
+    </div>
+</div>
+<hr />
+

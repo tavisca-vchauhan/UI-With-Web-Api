@@ -1,0 +1,72 @@
+﻿@model List<UIwithWeb_Api.Models.Activity>
+@{
+    ViewBag.Title = "GetValues";
+}
+
+<h2 align="center" id="heading">Activity </h2>
+<br />
+<br />
+<br />
+<hr />
+<table>
+    <thead>
+        <tr>
+            <th>activityID</th>
+            <th>activityName</th>
+            <th>activityDuration</th>
+            <th>activityDate</th>
+            <th>cost</th>
+            <th>IsSaved</th>
+            <th>IsBooked</th>
+            <th>Book Status</th>
+            <th>Save Status</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var i in Model)
+        {
+            <tr>
+                <td>@i.activityID</td>
+                <td>@i.activityName</td>
+                <td>@i.activityDuration</td>
+                <td>@i.activityDate</td>
+                <td>@i.cost</td>
+                <td>@i.IsSaved</td>
+                <td>@i.IsBooked</td>
+                @using (Html
+                       .BeginForm("PutData", "Activity", FormMethod.Post))
+                {
+                    <td>
+                        @if (@i.IsBooked == true)
+                        {
+                            <input type="hidden" name="Save" value="@i.activityID,2" />
+                            <input class="inside-button" type="submit" value="Booked" />
+                        }
+                        else
+                        {
+                            <input type="hidden" name="Save" value="@i.activityID,2" />
+                            <input class="inside-button" type="submit" value="Book" />
+                        }
+
+                    </td>
+                } @using (Html.BeginForm("PutData", "Activity", FormMethod.Post))
+                {
+                    <td>
+                        @if (@i.IsSaved == true)
+                        {
+                            <input type="hidden" name="Save" value="@i.activityID,1" />
+                            <input class="inside-button" type="submit" value="Saved" />
+                        }
+                        else
+                        {
+                            <input type="hidden" name="Save" value="@i.activityID,1" />
+                            <input class="inside-button" type="submit" value="Save" />
+                        }
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+<link rel="stylesheet" type="text/css" href="~/Scripts/Style.css"/>

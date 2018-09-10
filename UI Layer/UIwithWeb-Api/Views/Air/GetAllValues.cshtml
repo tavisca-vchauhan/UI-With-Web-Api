@@ -1,0 +1,76 @@
+﻿@model List<UIwithWeb_Api.Models.Air>
+@{
+    ViewBag.Title = "GetValues";
+}
+
+<h2 align="center" id="heading">Air</h2>
+<br />
+<br />
+<br />
+<hr />
+<table>
+    <thead>
+        <tr>
+            <th>airId</th>
+            <th>ticketNumber</th>
+            <th>departureStation</th>
+            <th>destinationStation</th>
+            <th>arrivalTime</th>
+            <th>departureTime</th>
+            <th>price</th>
+            <th>IsSaved</th>
+            <th>IsBooked</th>
+            <th>Book Status</th>
+            <th>Save Status</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var i in Model)
+        {
+            <tr>
+                <td>@i.airId</td>
+                <td>@i.ticketNumber</td>
+                <td>@i.departureStation</td>
+                <td>@i.destinationStation</td>
+                <td>@i.arrivalTime</td>
+                <td>@i.departureTime</td>
+                <td>@i.price</td>
+                <td>@i.IsSaved</td>
+                <td>@i.IsBooked</td>
+                @using (Html
+                       .BeginForm("PutData", "Air", FormMethod.Post))
+                {
+                    <td>
+                        @if (@i.IsBooked == true)
+                        {
+                            <input type="hidden" name="Save" value="@i.airId,2" />
+                            <input class="inside-button" type="submit" value="Booked" />
+                        }
+                        else
+                        {
+                            <input type="hidden" name="Save" value="@i.airId,2" />
+                            <input class="inside-button" type="submit" value="Book" />
+                        }
+
+                    </td>
+                } @using (Html.BeginForm("PutData", "Air", FormMethod.Post))
+                {
+                    <td>
+                        @if (@i.IsSaved == true)
+                        {
+                            <input type="hidden" name="Save" value="@i.airId,1" />
+                            <input class="inside-button" type="submit" value="Saved" />
+                        }
+                        else
+                        {
+                            <input type="hidden" name="Save" value="@i.airId,1" />
+                            <input class="inside-button" type="submit" value="Save" />
+                        }
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+<link rel="stylesheet" type="text/css" href="~/Scripts/Style.css" />
