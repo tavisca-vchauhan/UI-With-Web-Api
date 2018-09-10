@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DesignModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Activity">
+    <Key>
+      <PropertyRef Name="activityID" />
+    </Key>
+    <Property Name="activityID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="activityName" Type="nchar" MaxLength="30" Nullable="false" />
+    <Property Name="activityDuration" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="activityDate" Type="date" Nullable="false" />
+    <Property Name="cost" Type="int" Nullable="false" />
+    <Property Name="IsSaved" Type="bit" Nullable="false" />
+    <Property Name="IsBooked" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Air">
+    <Key>
+      <PropertyRef Name="airId" />
+    </Key>
+    <Property Name="airId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ticketNumber" Type="int" Nullable="false" />
+    <Property Name="departureStation" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="destinationStation" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="arrivalTime" Type="time" Precision="7" Nullable="false" />
+    <Property Name="departureTime" Type="time" Precision="7" Nullable="false" />
+    <Property Name="duration" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="price" Type="int" Nullable="false" />
+    <Property Name="IsSaved" Type="bit" Nullable="false" />
+    <Property Name="IsBooked" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Car">
+    <Key>
+      <PropertyRef Name="carId" />
+    </Key>
+    <Property Name="carId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="carName" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="carCompany" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="carModel" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="cost" Type="int" Nullable="false" />
+    <Property Name="color" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="engine" Type="nchar" MaxLength="20" />
+    <Property Name="IsSaved" Type="bit" Nullable="false" />
+    <Property Name="IsBooked" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Hotel">
+    <Key>
+      <PropertyRef Name="hotelId" />
+    </Key>
+    <Property Name="hotelId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="hotelName" Type="nchar" MaxLength="30" Nullable="false" />
+    <Property Name="address" Type="nchar" MaxLength="100" Nullable="false" />
+    <Property Name="fare" Type="int" Nullable="false" />
+    <Property Name="roomsAvailable" Type="int" Nullable="false" />
+    <Property Name="rating" Type="int" Nullable="false" />
+    <Property Name="wifiAvailability" Type="bit" Nullable="false" />
+    <Property Name="IsSaved" Type="bit" Nullable="false" />
+    <Property Name="IsBooked" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="DesignModelStoreContainer">
+    <EntitySet Name="Activity" EntityType="Self.Activity" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Air" EntityType="Self.Air" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Car" EntityType="Self.Car" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Hotel" EntityType="Self.Hotel" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
